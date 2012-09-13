@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"310","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1011/hemel-hempstead","guardian_id":"1011","guardian_name":"Hemel Hempstead","pa_id":"302","name":"Hemel Hempstead"}

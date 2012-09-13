@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"633","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1439/winchester","guardian_id":"1439","guardian_name":"Winchester","pa_id":"622","name":"Winchester"}

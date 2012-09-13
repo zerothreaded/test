@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"450","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1212/oxford-west-and-abingdon","guardian_id":"1212","guardian_name":"Oxford West and Abingdon","pa_id":"444","name":"Oxford West and Abingdon"}

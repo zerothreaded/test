@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"689","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/887/dundee-west","guardian_id":"887","guardian_name":"Dundee West","pa_id":"212","name":"Dundee West"}

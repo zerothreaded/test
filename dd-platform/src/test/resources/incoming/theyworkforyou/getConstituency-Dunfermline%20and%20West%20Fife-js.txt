@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"690","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/889/dunfermline-and-fife-west","guardian_id":"889","guardian_name":"Dunfermline and Fife West","pa_id":"213","name":"Dunfermline and West Fife"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"647","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1453/workington","guardian_id":"1453","guardian_name":"Workington","pa_id":"636","name":"Workington"}

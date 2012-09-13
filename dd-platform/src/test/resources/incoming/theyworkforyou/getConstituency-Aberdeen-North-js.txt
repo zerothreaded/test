@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"670","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/666/aberdeen-north","guardian_id":"666","guardian_name":"Aberdeen North","pa_id":"3","name":"Aberdeen North"}

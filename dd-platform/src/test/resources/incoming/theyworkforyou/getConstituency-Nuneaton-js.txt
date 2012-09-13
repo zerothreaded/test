@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"441","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1201/nuneaton","guardian_id":"1201","guardian_name":"Nuneaton","pa_id":"435","name":"Nuneaton"}

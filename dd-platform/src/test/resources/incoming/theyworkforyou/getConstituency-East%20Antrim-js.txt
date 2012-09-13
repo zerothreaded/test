@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"13","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/898/antrim-east","guardian_id":"898","guardian_name":"Antrim East","pa_id":"13","name":"East Antrim"}

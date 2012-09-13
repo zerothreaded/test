@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"259","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/949/fylde","guardian_id":"949","guardian_name":"Fylde","pa_id":"256","name":"Fylde"}

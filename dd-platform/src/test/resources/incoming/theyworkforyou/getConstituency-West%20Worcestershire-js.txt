@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"646","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1431/worcestershire-west","guardian_id":"1431","guardian_name":"Worcestershire West","pa_id":"635","name":"West Worcestershire"}

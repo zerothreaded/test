@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"552","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1348/stroud","guardian_id":"1348","guardian_name":"Stroud","pa_id":"546","name":"Stroud"}

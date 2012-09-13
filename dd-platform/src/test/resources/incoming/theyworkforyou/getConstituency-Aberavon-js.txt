@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"1","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/664/aberavon","guardian_id":"664","guardian_name":"Aberavon","pa_id":"1","name":"Aberavon"}

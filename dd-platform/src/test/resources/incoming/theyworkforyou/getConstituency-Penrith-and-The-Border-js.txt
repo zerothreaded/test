@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"454","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1218/penrith-and-the-border","guardian_id":"1218","guardian_name":"Penrith and The Border","pa_id":"449","name":"Penrith and The Border"}

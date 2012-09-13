@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"320","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1021/heywood-and-middleton","guardian_id":"1021","guardian_name":"Heywood and Middleton","pa_id":"313","name":"Heywood and Middleton"}

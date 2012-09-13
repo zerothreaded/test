@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"191","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1376/devon-west-and-torridge","guardian_id":"1376","guardian_name":"Devon West and Torridge","pa_id":"192","name":"Torridge and West Devon"}

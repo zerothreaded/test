@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"128","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/795/carmarthen-east-and-dinefwr","guardian_id":"795","guardian_name":"Carmarthen East and Dinefwr","pa_id":"131","name":"Carmarthen East and Dinefwr"}

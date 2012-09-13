@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"94","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/762/brigg-and-goole","guardian_id":"762","guardian_name":"Brigg and Goole","pa_id":"96","name":"Brigg and Goole"}

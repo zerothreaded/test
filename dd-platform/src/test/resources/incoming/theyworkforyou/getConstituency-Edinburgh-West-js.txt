@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"697","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/920/edinburgh-west","guardian_id":"920","guardian_name":"Edinburgh West","pa_id":"232","name":"Edinburgh West"}

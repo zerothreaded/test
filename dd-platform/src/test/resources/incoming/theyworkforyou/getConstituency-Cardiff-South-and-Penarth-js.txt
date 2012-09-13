@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"125","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/791/cardiff-south-and-penarth","guardian_id":"791","guardian_name":"Cardiff South and Penarth","pa_id":"128","name":"Cardiff South and Penarth"}

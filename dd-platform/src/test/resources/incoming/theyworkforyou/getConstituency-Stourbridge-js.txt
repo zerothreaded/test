@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"546","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1341/stourbridge","guardian_id":"1341","guardian_name":"Stourbridge","pa_id":"541","name":"Stourbridge"}

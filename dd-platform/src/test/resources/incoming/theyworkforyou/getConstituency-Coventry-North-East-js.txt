@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"163","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/846/coventry-north-east","guardian_id":"846","guardian_name":"Coventry North East","pa_id":"165","name":"Coventry North East"}

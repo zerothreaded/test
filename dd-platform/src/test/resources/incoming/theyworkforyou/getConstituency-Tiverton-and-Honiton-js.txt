@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"579","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1371/tiverton-and-honiton","guardian_id":"1371","guardian_name":"Tiverton and Honiton","pa_id":"572","name":"Tiverton and Honiton"}

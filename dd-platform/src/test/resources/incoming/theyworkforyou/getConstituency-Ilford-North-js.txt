@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"335","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1040/ilford-north","guardian_id":"1040","guardian_name":"Ilford North","pa_id":"328","name":"Ilford North"}

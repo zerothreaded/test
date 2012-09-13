@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"54","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/715/birmingham-erdington","guardian_id":"715","guardian_name":"Birmingham Erdington","pa_id":"58","name":"Birmingham, Erdington"}

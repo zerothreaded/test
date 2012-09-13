@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"107","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/775/burton","guardian_id":"775","guardian_name":"Burton","pa_id":"110","name":"Burton"}

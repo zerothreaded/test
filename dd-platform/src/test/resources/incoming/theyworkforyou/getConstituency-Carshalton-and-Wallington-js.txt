@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"131","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/798/carshalton-and-wallington","guardian_id":"798","guardian_name":"Carshalton and Wallington","pa_id":"133","name":"Carshalton and Wallington"}

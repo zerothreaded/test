@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"539","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1334/stockport","guardian_id":"1334","guardian_name":"Stockport","pa_id":"534","name":"Stockport"}

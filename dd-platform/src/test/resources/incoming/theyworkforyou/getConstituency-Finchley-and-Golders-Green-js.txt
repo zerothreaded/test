@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"255","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/944/finchley-and-golders-green","guardian_id":"944","guardian_name":"Finchley and Golders Green","pa_id":"252","name":"Finchley and Golders Green"}

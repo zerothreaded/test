@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"397","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1115/mansfield","guardian_id":"1115","guardian_name":"Mansfield","pa_id":"390","name":"Mansfield"}

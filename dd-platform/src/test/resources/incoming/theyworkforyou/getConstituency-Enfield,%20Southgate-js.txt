@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"238","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/926/enfield-southgate","guardian_id":"926","guardian_name":"Enfield Southgate","pa_id":"238","name":"Enfield, Southgate"}

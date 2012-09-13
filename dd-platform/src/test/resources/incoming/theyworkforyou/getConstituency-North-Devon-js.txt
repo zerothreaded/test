@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"189","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1167/devon-north","guardian_id":"1167","guardian_name":"Devon North","pa_id":"190","name":"North Devon"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"679","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/684/banff-and-buchan","guardian_id":"684","guardian_name":"Banff and Buchan","pa_id":"27","name":"Banff and Buchan"}

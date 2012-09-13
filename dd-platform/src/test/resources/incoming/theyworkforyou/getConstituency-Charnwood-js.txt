@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"134","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/805/charnwood","guardian_id":"805","guardian_name":"Charnwood","pa_id":"136","name":"Charnwood"}

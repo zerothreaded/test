@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"304","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1005/hartlepool","guardian_id":"1005","guardian_name":"Hartlepool","pa_id":"296","name":"Hartlepool"}

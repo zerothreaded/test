@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"84","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/750/bradford-west","guardian_id":"750","guardian_name":"Bradford West","pa_id":"87","name":"Bradford West"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"212","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/890/durham-north","guardian_id":"890","guardian_name":"Durham North","pa_id":"215","name":"North Durham"}

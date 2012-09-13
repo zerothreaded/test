@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"11","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/673/amber-valley","guardian_id":"673","guardian_name":"Amber Valley","pa_id":"11","name":"Amber Valley"}

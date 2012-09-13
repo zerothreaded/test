@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"363","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1075/leicester-west","guardian_id":"1075","guardian_name":"Leicester West","pa_id":"358","name":"Leicester West"}

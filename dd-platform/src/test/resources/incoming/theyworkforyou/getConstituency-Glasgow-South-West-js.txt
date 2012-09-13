@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"706","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/967/glasgow-south-west","guardian_id":"967","guardian_name":"Glasgow South West","pa_id":"268","name":"Glasgow South West"}

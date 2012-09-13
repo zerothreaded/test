@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"127","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/793/carlisle","guardian_id":"793","guardian_name":"Carlisle","pa_id":"130","name":"Carlisle"}

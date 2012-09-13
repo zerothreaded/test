@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"313","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1016/henley","guardian_id":"1016","guardian_name":"Henley","pa_id":"305","name":"Henley"}

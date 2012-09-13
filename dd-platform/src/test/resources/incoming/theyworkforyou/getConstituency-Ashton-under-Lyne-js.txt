@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"20","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/680/ashton-under-lyne","guardian_id":"680","guardian_name":"Ashton under Lyne","pa_id":"21","name":"Ashton-under-Lyne"}

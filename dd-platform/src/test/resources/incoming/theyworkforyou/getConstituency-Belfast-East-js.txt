@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"42","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/700/belfast-east","guardian_id":"700","guardian_name":"Belfast East","pa_id":"45","name":"Belfast East"}

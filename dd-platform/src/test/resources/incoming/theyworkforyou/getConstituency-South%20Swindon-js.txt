@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"568","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1308/swindon-south","guardian_id":"1308","guardian_name":"Swindon South","pa_id":"561","name":"South Swindon"}

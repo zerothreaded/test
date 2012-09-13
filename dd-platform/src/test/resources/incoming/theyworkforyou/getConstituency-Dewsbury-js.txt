@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"192","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/873/dewsbury","guardian_id":"873","guardian_name":"Dewsbury","pa_id":"193","name":"Dewsbury"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"34","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/695/batley-and-spen","guardian_id":"695","guardian_name":"Batley and Spen","pa_id":"37","name":"Batley and Spen"}

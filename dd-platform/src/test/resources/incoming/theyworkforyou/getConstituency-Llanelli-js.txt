@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"381","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1098/llanelli","guardian_id":"1098","guardian_name":"Llanelli","pa_id":"375","name":"Llanelli"}

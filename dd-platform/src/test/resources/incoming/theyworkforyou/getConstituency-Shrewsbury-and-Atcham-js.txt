@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"517","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1286/shrewsbury-and-atcham","guardian_id":"1286","guardian_name":"Shrewsbury and Atcham","pa_id":"510","name":"Shrewsbury and Atcham"}

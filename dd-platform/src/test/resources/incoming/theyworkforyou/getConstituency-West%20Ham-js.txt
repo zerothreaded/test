@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"625","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1424/west-ham","guardian_id":"1424","guardian_name":"West Ham","pa_id":"614","name":"West Ham"}

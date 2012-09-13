@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"391","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1108/makerfield","guardian_id":"1108","guardian_name":"Makerfield","pa_id":"385","name":"Makerfield"}

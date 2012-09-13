@@ -1,1 +1,0 @@
-[{"member_id":"40688","house":"1","first_name":"Iain","last_name":"McKenzie","constituency":"Inverclyde","party":"Labour","entered_house":"2011-07-01","left_house":"9999-12-31","entered_reason":"by_election","left_reason":"still_in_office","person_id":"25145","title":"","lastupdate":"2011-07-02 08:21:51","full_name":"Iain McKenzie","url":"/mp/iain_mckenzie/inverclyde"}]

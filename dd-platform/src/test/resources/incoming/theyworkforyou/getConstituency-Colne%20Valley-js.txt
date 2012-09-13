@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"155","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/840/colne-valley","guardian_id":"840","guardian_name":"Colne Valley","pa_id":"158","name":"Colne Valley"}

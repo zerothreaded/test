@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"102","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/770/bromsgrove","guardian_id":"770","guardian_name":"Bromsgrove","pa_id":"105","name":"Bromsgrove"}

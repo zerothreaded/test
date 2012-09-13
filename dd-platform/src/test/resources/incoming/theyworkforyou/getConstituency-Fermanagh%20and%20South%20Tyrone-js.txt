@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"252","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/942/fermanagh-and-south-tyrone","guardian_id":"942","guardian_name":"Fermanagh and South Tyrone","pa_id":"249","name":"Fermanagh and South Tyrone"}

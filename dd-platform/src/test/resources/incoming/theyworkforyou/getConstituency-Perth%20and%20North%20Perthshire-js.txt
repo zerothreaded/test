@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"724","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1219/perth-and-perthshire-north","guardian_id":"1219","guardian_name":"Perth and Perthshire North","pa_id":"450","name":"Perth and North Perthshire"}

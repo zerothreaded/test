@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"478","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1304/ribble-south","guardian_id":"1304","guardian_name":"Ribble South (South Ribble)","pa_id":"521","name":"South Ribble"}

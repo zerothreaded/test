@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"78","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/743/bosworth","guardian_id":"743","guardian_name":"Bosworth","pa_id":"81","name":"Bosworth"}

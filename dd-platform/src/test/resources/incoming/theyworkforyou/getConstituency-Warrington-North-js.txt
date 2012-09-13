@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"611","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1406/warrington-north","guardian_id":"1406","guardian_name":"Warrington North","pa_id":"599","name":"Warrington North"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"97","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/765/bristol-east","guardian_id":"765","guardian_name":"Bristol East","pa_id":"99","name":"Bristol East"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"683","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/859/cumbernauld-kilsyth-and-kirkintilloch-east","guardian_id":"859","guardian_name":"Cumbernauld, Kilsyth and Kirkintilloch East","pa_id":"173","name":"Cumbernauld, Kilsyth and Kirkintilloch East"}

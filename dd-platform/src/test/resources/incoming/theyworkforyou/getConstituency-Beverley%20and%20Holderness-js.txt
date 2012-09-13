@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"48","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/708/beverley-and-holderness","guardian_id":"708","guardian_name":"Beverley and Holderness","pa_id":"53","name":"Beverley and Holderness"}

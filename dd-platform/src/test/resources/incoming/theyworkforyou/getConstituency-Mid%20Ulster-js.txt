@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"594","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1126/ulster-mid","guardian_id":"1126","guardian_name":"Ulster Mid","pa_id":"585","name":"Mid Ulster"}

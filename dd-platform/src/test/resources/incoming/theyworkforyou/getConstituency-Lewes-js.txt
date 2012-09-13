@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"367","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1078/lewes","guardian_id":"1078","guardian_name":"Lewes","pa_id":"362","name":"Lewes"}

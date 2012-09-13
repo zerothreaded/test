@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"39","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1120/bedfordshire-mid","guardian_id":"1120","guardian_name":"Bedfordshire Mid","pa_id":"42","name":"Mid Bedfordshire"}

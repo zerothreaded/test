@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"287","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/987/hackney-south-and-shoreditch","guardian_id":"987","guardian_name":"Hackney South and Shoreditch","pa_id":"281","name":"Hackney South and Shoreditch"}

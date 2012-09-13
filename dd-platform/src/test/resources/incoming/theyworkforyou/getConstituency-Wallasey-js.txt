@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"603","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1394/wallasey","guardian_id":"1394","guardian_name":"Wallasey","pa_id":"592","name":"Wallasey"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"250","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/940/faversham-and-kent-mid","guardian_id":"940","guardian_name":"Faversham and Kent Mid","pa_id":"247","name":"Faversham and Mid Kent"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"188","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/900/devon-east","guardian_id":"900","guardian_name":"Devon East","pa_id":"189","name":"East Devon"}

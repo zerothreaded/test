@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"23","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/683/banbury","guardian_id":"683","guardian_name":"Banbury","pa_id":"26","name":"Banbury"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"378","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1095/liverpool-wavertree","guardian_id":"1095","guardian_name":"Liverpool Wavertree","pa_id":"372","name":"Liverpool, Wavertree"}

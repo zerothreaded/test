@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"180","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/868/delyn","guardian_id":"868","guardian_name":"Delyn","pa_id":"179","name":"Delyn"}

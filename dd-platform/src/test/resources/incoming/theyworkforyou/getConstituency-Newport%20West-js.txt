@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"425","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1161/newport-west","guardian_id":"1161","guardian_name":"Newport West","pa_id":"418","name":"Newport West"}

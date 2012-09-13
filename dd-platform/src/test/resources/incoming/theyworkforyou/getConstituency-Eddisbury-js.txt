@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"226","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/912/eddisbury","guardian_id":"912","guardian_name":"Eddisbury","pa_id":"227","name":"Eddisbury"}

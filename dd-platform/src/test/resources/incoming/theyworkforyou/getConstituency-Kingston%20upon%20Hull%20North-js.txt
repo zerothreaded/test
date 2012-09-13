@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"331","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1035/hull-north","guardian_id":"1035","guardian_name":"Hull North","pa_id":"324","name":"Kingston upon Hull North"}

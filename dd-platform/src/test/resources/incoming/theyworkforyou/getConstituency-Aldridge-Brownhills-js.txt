@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"8","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/670/aldridge-brownhills","guardian_id":"670","guardian_name":"Aldridge-Brownhills","pa_id":"8","name":"Aldridge-Brownhills"}

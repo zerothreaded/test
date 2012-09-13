@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"338","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1044/ipswich","guardian_id":"1044","guardian_name":"Ipswich","pa_id":"332","name":"Ipswich"}

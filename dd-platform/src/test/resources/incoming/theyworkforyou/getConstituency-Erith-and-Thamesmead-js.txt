@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"242","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/931/erith-and-thamesmead","guardian_id":"931","guardian_name":"Erith and Thamesmead","pa_id":"242","name":"Erith and Thamesmead"}

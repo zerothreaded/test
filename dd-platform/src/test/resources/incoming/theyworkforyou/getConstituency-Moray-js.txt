@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"717","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1140/moray","guardian_id":"1140","guardian_name":"Moray","pa_id":"403","name":"Moray"}

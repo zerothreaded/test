@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"158","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/843/copeland","guardian_id":"843","guardian_name":"Copeland","pa_id":"160","name":"Copeland"}

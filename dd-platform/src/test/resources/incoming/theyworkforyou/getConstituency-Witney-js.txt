@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"637","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1444/witney","guardian_id":"1444","guardian_name":"Witney","pa_id":"627","name":"Witney"}

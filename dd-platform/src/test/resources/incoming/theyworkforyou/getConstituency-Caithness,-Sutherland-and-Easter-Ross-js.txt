@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"681","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/782/caithness-sutherland-and-easter-ross","guardian_id":"782","guardian_name":"Caithness, Sutherland and Easter Ross","pa_id":"115","name":"Caithness, Sutherland and Easter Ross"}

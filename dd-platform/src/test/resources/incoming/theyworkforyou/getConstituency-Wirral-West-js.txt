@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"636","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1443/wirral-west","guardian_id":"1443","guardian_name":"Wirral West","pa_id":"625","name":"Wirral West"}

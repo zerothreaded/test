@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"359","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1070/leeds-north-west","guardian_id":"1070","guardian_name":"Leeds North West","pa_id":"354","name":"Leeds North West"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"41","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1310/bedfordshire-south-west","guardian_id":"1310","guardian_name":"Bedfordshire South West","pa_id":"44","name":"South West Bedfordshire"}

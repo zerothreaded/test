@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"329","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1033/huddersfield","guardian_id":"1033","guardian_name":"Huddersfield","pa_id":"322","name":"Huddersfield"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"372","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1085/lichfield","guardian_id":"1085","guardian_name":"Lichfield","pa_id":"367","name":"Lichfield"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"624","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1419/west-bromwich-west","guardian_id":"1419","guardian_name":"West Bromwich West","pa_id":"613","name":"West Bromwich West"}

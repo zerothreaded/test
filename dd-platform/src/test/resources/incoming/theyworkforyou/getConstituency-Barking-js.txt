@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"25","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/685/barking","guardian_id":"685","guardian_name":"Barking","pa_id":"28","name":"Barking"}

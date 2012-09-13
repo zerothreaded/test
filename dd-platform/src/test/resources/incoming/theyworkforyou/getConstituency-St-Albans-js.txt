@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"498","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1324/st-albans","guardian_id":"1324","guardian_name":"St Albans","pa_id":"490","name":"St Albans"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"631","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1191/wiltshire-north","guardian_id":"1191","guardian_name":"Wiltshire North","pa_id":"619","name":"North Wiltshire"}

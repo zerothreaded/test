@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"309","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1010/hazel-grove","guardian_id":"1010","guardian_name":"Hazel Grove","pa_id":"301","name":"Hazel Grove"}

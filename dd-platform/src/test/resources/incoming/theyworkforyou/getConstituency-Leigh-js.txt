@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"365","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1076/leigh","guardian_id":"1076","guardian_name":"Leigh","pa_id":"361","name":"Leigh"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"401","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1119/merthyr-tydfil-and-rhymney","guardian_id":"1119","guardian_name":"Merthyr Tydfil and Rhymney","pa_id":"393","name":"Merthyr Tydfil and Rhymney"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"257","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/946/forest-of-dean","guardian_id":"946","guardian_name":"Forest of Dean","pa_id":"254","name":"Forest of Dean"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"98","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/766/bristol-north-west","guardian_id":"766","guardian_name":"Bristol North West","pa_id":"100","name":"Bristol North West"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"240","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/928/epsom-and-ewell","guardian_id":"928","guardian_name":"Epsom and Ewell","pa_id":"240","name":"Epsom and Ewell"}

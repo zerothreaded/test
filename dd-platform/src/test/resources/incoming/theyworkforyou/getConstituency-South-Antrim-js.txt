@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"15","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1293/antrim-south","guardian_id":"1293","guardian_name":"Antrim South","pa_id":"15","name":"South Antrim"}

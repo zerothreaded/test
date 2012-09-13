@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"591","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1385/tynemouth","guardian_id":"1385","guardian_name":"Tynemouth","pa_id":"582","name":"Tynemouth"}

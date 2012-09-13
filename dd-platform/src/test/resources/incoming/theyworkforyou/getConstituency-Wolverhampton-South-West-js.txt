@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"642","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1449/wolverhampton-south-west","guardian_id":"1449","guardian_name":"Wolverhampton South West","pa_id":"632","name":"Wolverhampton South West"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"426","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1162/newry-and-armagh","guardian_id":"1162","guardian_name":"Newry and Armagh","pa_id":"419","name":"Newry and Armagh"}

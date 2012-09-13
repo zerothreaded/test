@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"727","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/969/rutherglen-and-hamilton-west","guardian_id":"969","guardian_name":"Rutherglen and Hamilton West","pa_id":"487","name":"Rutherglen and Hamilton West"}

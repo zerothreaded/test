@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"630","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1437/wigan","guardian_id":"1437","guardian_name":"Wigan","pa_id":"618","name":"Wigan"}

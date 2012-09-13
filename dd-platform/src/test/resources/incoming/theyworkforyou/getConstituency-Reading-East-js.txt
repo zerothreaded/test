@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"470","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1237/reading-east","guardian_id":"1237","guardian_name":"Reading East","pa_id":"464","name":"Reading East"}

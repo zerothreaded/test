@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"279","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/977/grantham-and-stamford","guardian_id":"977","guardian_name":"Grantham and Stamford","pa_id":"274","name":"Grantham and Stamford"}

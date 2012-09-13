@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"704","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/958/glasgow-north-west","guardian_id":"958","guardian_name":"Glasgow North West","pa_id":"266","name":"Glasgow North West"}

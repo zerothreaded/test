@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"569","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1359/tamworth","guardian_id":"1359","guardian_name":"Tamworth","pa_id":"562","name":"Tamworth"}

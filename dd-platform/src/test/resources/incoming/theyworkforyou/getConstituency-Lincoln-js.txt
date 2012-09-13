@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"373","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1086/lincoln","guardian_id":"1086","guardian_name":"Lincoln","pa_id":"368","name":"Lincoln"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"659","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1465/yorkshire-east","guardian_id":"1465","guardian_name":"Yorkshire East","pa_id":"650","name":"East Yorkshire"}

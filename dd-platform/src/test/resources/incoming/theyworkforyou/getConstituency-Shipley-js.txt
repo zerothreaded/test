@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"516","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1284/shipley","guardian_id":"1284","guardian_name":"Shipley","pa_id":"509","name":"Shipley"}

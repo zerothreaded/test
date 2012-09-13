@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"593","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1430/tyrone-west","guardian_id":"1430","guardian_name":"Tyrone West","pa_id":"584","name":"West Tyrone"}

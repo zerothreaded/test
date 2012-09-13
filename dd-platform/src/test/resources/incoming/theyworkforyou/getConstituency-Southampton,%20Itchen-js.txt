@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"527","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1317/southampton-itchen","guardian_id":"1317","guardian_name":"Southampton Itchen","pa_id":"523","name":"Southampton, Itchen"}

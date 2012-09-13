@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"522","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1290/slough","guardian_id":"1290","guardian_name":"Slough","pa_id":"515","name":"Slough"}

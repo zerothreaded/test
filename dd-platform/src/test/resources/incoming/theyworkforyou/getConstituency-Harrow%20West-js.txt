@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"303","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1004/harrow-west","guardian_id":"1004","guardian_name":"Harrow West","pa_id":"295","name":"Harrow West"}

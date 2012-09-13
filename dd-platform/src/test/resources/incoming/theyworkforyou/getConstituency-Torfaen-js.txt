@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"583","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1375/torfaen","guardian_id":"1375","guardian_name":"Torfaen","pa_id":"576","name":"Torfaen"}

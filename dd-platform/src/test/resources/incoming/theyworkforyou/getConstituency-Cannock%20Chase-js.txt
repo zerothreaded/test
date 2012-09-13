@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"121","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/786/cannock-chase","guardian_id":"786","guardian_name":"Cannock Chase","pa_id":"124","name":"Cannock Chase"}

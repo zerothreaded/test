@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"132","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/799/castle-point","guardian_id":"799","guardian_name":"Castle Point","pa_id":"134","name":"Castle Point"}

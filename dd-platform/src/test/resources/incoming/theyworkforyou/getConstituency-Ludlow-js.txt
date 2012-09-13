@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"385","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1101/ludlow","guardian_id":"1101","guardian_name":"Ludlow","pa_id":"379","name":"Ludlow"}

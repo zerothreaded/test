@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"715","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1097/livingston","guardian_id":"1097","guardian_name":"Livingston","pa_id":"374","name":"Livingston"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"617","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1411/wealden","guardian_id":"1411","guardian_name":"Wealden","pa_id":"606","name":"Wealden"}

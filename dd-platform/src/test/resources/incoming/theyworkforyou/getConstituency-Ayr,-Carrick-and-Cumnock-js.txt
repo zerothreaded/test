@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"676","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/797/ayr-carrick-and-cumnock","guardian_id":"797","guardian_name":"Ayr, Carrick and Cumnock","pa_id":"23","name":"Ayr, Carrick and Cumnock"}

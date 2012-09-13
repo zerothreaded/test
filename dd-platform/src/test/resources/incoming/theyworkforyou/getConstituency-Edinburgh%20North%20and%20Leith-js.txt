@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"694","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/917/edinburgh-north-and-leith","guardian_id":"917","guardian_name":"Edinburgh North and Leith","pa_id":"229","name":"Edinburgh North and Leith"}

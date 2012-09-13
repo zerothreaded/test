@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"678","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/860/ayrshire-north-and-arran","guardian_id":"860","guardian_name":"Ayrshire North and Arran","pa_id":"25","name":"North Ayrshire and Arran"}

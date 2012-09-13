@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"585","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1378/tottenham","guardian_id":"1378","guardian_name":"Tottenham","pa_id":"578","name":"Tottenham"}

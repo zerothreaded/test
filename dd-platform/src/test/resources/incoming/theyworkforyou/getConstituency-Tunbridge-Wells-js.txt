@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"587","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1381/tunbridge-wells","guardian_id":"1381","guardian_name":"Tunbridge Wells","pa_id":"580","name":"Tunbridge Wells"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"126","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/792/cardiff-west","guardian_id":"792","guardian_name":"Cardiff West","pa_id":"129","name":"Cardiff West"}

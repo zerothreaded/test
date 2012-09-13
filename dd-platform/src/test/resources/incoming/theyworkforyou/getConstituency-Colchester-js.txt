@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"154","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/837/colchester","guardian_id":"837","guardian_name":"Colchester","pa_id":"157","name":"Colchester"}

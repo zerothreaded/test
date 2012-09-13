@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"10","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/672/alyn-and-deeside","guardian_id":"672","guardian_name":"Alyn and Deeside","pa_id":"10","name":"Alyn and Deeside"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"214","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/825/city-of-durham","guardian_id":"825","guardian_name":"City of Durham","pa_id":"214","name":"City of Durham"}

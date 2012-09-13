@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"439","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1199/nottingham-north","guardian_id":"1199","guardian_name":"Nottingham North","pa_id":"433","name":"Nottingham North"}

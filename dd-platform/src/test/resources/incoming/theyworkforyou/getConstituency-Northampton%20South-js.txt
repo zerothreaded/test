@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"434","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1193/northampton-south","guardian_id":"1193","guardian_name":"Northampton South","pa_id":"428","name":"Northampton South"}

@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"691","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/903/east-kilbride-strathaven-and-lesmahagow","guardian_id":"903","guardian_name":"East Kilbride, Strathaven and Lesmahagow","pa_id":"223","name":"East Kilbride, Strathaven and Lesmahagow"}

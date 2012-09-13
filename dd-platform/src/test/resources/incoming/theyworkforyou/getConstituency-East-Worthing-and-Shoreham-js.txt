@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"649","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/907/worthing-east-and-shoreham","guardian_id":"907","guardian_name":"Worthing East and Shoreham","pa_id":"638","name":"East Worthing and Shoreham"}

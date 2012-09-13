@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"317","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1313/hertfordshire-south-west","guardian_id":"1313","guardian_name":"Hertfordshire South West","pa_id":"310","name":"South West Hertfordshire"}

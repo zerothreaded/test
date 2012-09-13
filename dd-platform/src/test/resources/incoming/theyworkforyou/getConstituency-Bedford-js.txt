@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"38","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/699/bedford","guardian_id":"699","guardian_name":"Bedford","pa_id":"41","name":"Bedford"}

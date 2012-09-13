@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"710","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1042/inverness-nairn-badenoch-and-strathspey","guardian_id":"1042","guardian_name":"Inverness, Nairn, Badenoch and Strathspey","pa_id":"331","name":"Inverness, Nairn, Badenoch and Strathspey"}

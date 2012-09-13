@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"118","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1186/cambridgeshire-north-west","guardian_id":"1186","guardian_name":"Cambridgeshire North West","pa_id":"121","name":"North West Cambridgeshire"}

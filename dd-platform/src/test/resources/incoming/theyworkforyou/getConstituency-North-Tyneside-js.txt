@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"592","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1184/tyneside-north","guardian_id":"1184","guardian_name":"Tyneside North","pa_id":"583","name":"North Tyneside"}

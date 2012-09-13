@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"142","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/815/chichester","guardian_id":"815","guardian_name":"Chichester","pa_id":"145","name":"Chichester"}

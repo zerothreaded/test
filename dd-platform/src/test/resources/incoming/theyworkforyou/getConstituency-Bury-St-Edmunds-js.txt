@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"110","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/778/bury-st-edmunds","guardian_id":"778","guardian_name":"Bury St Edmunds","pa_id":"113","name":"Bury St Edmunds"}

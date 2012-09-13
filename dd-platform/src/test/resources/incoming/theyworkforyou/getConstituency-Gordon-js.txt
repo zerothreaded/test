@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"708","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/973/gordon","guardian_id":"973","guardian_name":"Gordon","pa_id":"271","name":"Gordon"}

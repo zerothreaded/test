@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"520","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1288/skipton-and-ripon","guardian_id":"1288","guardian_name":"Skipton and Ripon","pa_id":"513","name":"Skipton and Ripon"}

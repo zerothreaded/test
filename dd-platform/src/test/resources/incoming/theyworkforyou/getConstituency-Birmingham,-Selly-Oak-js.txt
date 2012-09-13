@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"60","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/721/birmingham-selly-oak","guardian_id":"721","guardian_name":"Birmingham Selly Oak","pa_id":"64","name":"Birmingham, Selly Oak"}

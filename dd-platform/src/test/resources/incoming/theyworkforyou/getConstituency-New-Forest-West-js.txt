@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"417","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1149/new-forest-west","guardian_id":"1149","guardian_name":"New Forest West","pa_id":"410","name":"New Forest West"}

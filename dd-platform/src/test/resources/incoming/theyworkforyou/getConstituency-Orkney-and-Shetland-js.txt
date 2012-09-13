@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"721","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1209/orkney-and-shetland","guardian_id":"1209","guardian_name":"Orkney and Shetland","pa_id":"441","name":"Orkney and Shetland"}

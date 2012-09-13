@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"63","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/726/bishop-auckland","guardian_id":"726","guardian_name":"Bishop Auckland","pa_id":"66","name":"Bishop Auckland"}

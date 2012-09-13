@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"719","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1433/na-h-eileanan-an-iar","guardian_id":"1433","guardian_name":"Na h-Eileanan an Iar","pa_id":"407","name":"Na h-Eileanan an Iar"}

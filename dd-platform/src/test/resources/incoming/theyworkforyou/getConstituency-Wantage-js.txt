@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"609","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1402/wantage","guardian_id":"1402","guardian_name":"Wantage","pa_id":"597","name":"Wantage"}

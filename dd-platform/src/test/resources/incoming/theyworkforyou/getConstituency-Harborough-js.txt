@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"299","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/999/harborough","guardian_id":"999","guardian_name":"Harborough","pa_id":"291","name":"Harborough"}

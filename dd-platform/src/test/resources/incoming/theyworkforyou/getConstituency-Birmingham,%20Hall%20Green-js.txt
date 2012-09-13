@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"55","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/716/birmingham-hall-green","guardian_id":"716","guardian_name":"Birmingham Hall Green","pa_id":"59","name":"Birmingham, Hall Green"}

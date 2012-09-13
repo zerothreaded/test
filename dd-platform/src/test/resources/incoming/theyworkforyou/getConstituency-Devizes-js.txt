@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"187","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/872/devizes","guardian_id":"872","guardian_name":"Devizes","pa_id":"187","name":"Devizes"}

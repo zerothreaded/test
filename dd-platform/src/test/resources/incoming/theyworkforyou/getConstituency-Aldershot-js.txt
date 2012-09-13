@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"7","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/669/aldershot","guardian_id":"669","guardian_name":"Aldershot","pa_id":"7","name":"Aldershot"}

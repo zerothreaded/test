@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"379","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1096/liverpool-west-derby","guardian_id":"1096","guardian_name":"Liverpool West Derby","pa_id":"373","name":"Liverpool, West Derby"}

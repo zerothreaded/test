@@ -1,1 +1,0 @@
-{"bbc_constituency_id":"160","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1166/cornwall-north","guardian_id":"1166","guardian_name":"Cornwall North","pa_id":"162","name":"North Cornwall"}
