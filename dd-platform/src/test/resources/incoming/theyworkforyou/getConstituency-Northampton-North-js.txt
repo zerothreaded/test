@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"433","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1192/northampton-north","guardian_id":"1192","guardian_name":"Northampton North","pa_id":"427","name":"Northampton North"}

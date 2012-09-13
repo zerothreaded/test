@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"682","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/836/coatbridge-chryston-and-bellshill","guardian_id":"836","guardian_name":"Coatbridge, Chryston and Bellshill","pa_id":"156","name":"Coatbridge, Chryston and Bellshill"}

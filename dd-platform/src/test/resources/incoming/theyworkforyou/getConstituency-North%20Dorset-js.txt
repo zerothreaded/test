@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"197","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1168/dorset-north","guardian_id":"1168","guardian_name":"Dorset North","pa_id":"198","name":"North Dorset"}

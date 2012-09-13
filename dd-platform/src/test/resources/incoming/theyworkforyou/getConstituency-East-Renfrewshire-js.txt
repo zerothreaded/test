@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"725","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/910/renfrewshire-east","guardian_id":"910","guardian_name":"Renfrewshire East","pa_id":"469","name":"East Renfrewshire"}

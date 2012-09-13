@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"58","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/719/birmingham-northfield","guardian_id":"719","guardian_name":"Birmingham Northfield","pa_id":"62","name":"Birmingham, Northfield"}

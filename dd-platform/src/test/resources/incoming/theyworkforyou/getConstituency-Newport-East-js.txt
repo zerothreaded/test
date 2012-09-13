@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"424","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1160/newport-east","guardian_id":"1160","guardian_name":"Newport East","pa_id":"417","name":"Newport East"}

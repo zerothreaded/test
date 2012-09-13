@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"640","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1447/wolverhampton-north-east","guardian_id":"1447","guardian_name":"Wolverhampton North East","pa_id":"630","name":"Wolverhampton North East"}

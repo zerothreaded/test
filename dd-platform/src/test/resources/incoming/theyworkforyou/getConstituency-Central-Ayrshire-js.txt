@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"677","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/682/ayrshire-central","guardian_id":"682","guardian_name":"Ayrshire Central","pa_id":"24","name":"Central Ayrshire"}

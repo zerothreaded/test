@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-3.0.xsd"
+>
+    <bean id="application.context.provider" class="com.dd.platform.web.ApplicationContextProvider" />
+
+	<!-- Service Property Injection -->
+    <context:property-placeholder location="config/properties/dd-services.properties,config/properties/database.properties"/>
+
+	<!-- URL Loader Service -->
+    <bean id="service.urlLoader" class="com.dd.platform.service.UrlLoader">
+        <property name="proxyHost" value="${unicredit.proxyHost}" />
+        <property name="proxyPort" value="${unicredit.proxyPort}"/>
+    </bean>
+
+	<!-- Text File Writer Service -->
+    <bean id="service.textFileWriter" class="com.dd.platform.service.file.TextFileWriter">
+    </bean>
+
+	<!-- TWFY Integration Service -->
+    <bean id="service.integration.theyWorkForYou" class="com.dd.platform.service.integration.TheyWorkForYouIntegrationService">
+    	<!-- Dependents -->
+        <property name="urlLoader" ref="service.urlLoader" />
+        <property name="textFileWriter" ref="service.textFileWriter" />
+    	<!-- Properties -->
+        <property name="apiBaseUrl" value="http://www.theyworkforyou.com/api/" />
+        <property name="commandgetConstituencies" value="getConstituencies" />
+        <property name="commandGetConstituency" value="getConstituency" />
+        <property name="commandGetMp" value="getMP" />
+        <property name="baseFolder" value="/Users/ralphmasilamani/Documents/workspace/dd-platform/src/test/resources/incoming/theyworkforyou"
+/>
+    </bean>
+
+    <bean id="dataSource" destroy-method="close" class="org.apache.commons.dbcp.BasicDataSource">
+        <property name="driverClassName" value="${db.mysql.sql.driver}"/>
+        <property name="url" value="${db.mysql.sql.url}"/>
+        <property name="username" value="${db.mysql.sql.user}"/>
+        <property name="password" value="${db.mysql.sql.password}"/>
+    </bean>
+
+	<!-- DAO -->
+    <bean id="service.dao.ConstituencyDao" class="com.dd.platform.service.dao.ConstituencyDao">
+    	<!-- Dependents -->
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+    <bean id="service.dao.PersonDao" class="com.dd.platform.service.dao.PersonDao">
+    	<!-- Dependents -->
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+	<!-- Content Service -->
+    <bean id="service.content.ContentService" class="com.dd.platform.service.content.ContentService">
+    	<!-- Dependents -->
+        <property name="theyWorkForYouIntegrationService" ref="service.integration.theyWorkForYou" />
+        <property name="constituencyDao" ref="service.dao.ConstituencyDao" />
+        <property name="personDao" ref="service.dao.PersonDao" />
+    	<!-- Properties -->
+        <property name="constituencyNamesFileName" value="/Users/ralphmasilamani/Documents/workspace/dd-platform/src/test/resources/incoming/theyworkforyou/getConstituencies-js.txt" />
+    </bean>
+    
+</beans>

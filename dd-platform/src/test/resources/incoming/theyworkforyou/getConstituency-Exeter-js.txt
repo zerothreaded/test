@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"245","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/934/exeter","guardian_id":"934","guardian_name":"Exeter","pa_id":"244","name":"Exeter"}

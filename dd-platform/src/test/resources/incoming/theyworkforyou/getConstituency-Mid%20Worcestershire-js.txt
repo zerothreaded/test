@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"645","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1127/worcestershire-mid","guardian_id":"1127","guardian_name":"Worcestershire Mid","pa_id":"634","name":"Mid Worcestershire"}

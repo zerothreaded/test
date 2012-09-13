@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"553","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/802/suffolk-central-and-ipswich-north","guardian_id":"802","guardian_name":"Suffolk Central and Ipswich North","pa_id":"547","name":"Central Suffolk and North Ipswich"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"621","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1415/welwyn-hatfield","guardian_id":"1415","guardian_name":"Welwyn Hatfield","pa_id":"610","name":"Welwyn Hatfield"}

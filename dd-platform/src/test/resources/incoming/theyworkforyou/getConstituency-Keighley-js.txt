@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"344","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1050/keighley","guardian_id":"1050","guardian_name":"Keighley","pa_id":"338","name":"Keighley"}

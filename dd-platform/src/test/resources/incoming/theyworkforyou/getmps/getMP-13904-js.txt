@@ -1,0 +1,1 @@
+[{"member_id":"40687","house":"1","first_name":"Paul","last_name":"Maskey","constituency":"Belfast West","party":"Sinn Fein","entered_house":"2011-06-09","left_house":"9999-12-31","entered_reason":"by_election","left_reason":"still_in_office","person_id":"13904","title":"","lastupdate":"2011-06-16 15:53:04","full_name":"Paul Maskey","url":"/mp/paul_maskey/belfast_west"}]

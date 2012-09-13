@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"599","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1390/vale-of-glamorgan","guardian_id":"1390","guardian_name":"Vale of Glamorgan","pa_id":"589","name":"Vale of Glamorgan"}

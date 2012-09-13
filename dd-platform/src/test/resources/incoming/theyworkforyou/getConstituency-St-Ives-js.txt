@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"501","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1327/st-ives","guardian_id":"1327","guardian_name":"St Ives","pa_id":"494","name":"St Ives"}

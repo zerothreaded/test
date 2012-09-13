@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"342","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1048/islwyn","guardian_id":"1048","guardian_name":"Islwyn","pa_id":"336","name":"Islwyn"}

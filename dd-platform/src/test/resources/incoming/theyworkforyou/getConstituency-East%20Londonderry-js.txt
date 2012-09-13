@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"382","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/904/londonderry-east","guardian_id":"904","guardian_name":"Londonderry East","pa_id":"376","name":"East Londonderry"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"67","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/731/blackpool-south","guardian_id":"731","guardian_name":"Blackpool South","pa_id":"70","name":"Blackpool South"}

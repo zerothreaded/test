@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"686","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1344/dunbartonshire-east","guardian_id":"1344","guardian_name":"Dunbartonshire East","pa_id":"209","name":"East Dunbartonshire"}

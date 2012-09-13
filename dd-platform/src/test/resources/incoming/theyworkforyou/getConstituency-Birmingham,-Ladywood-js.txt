@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"57","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/718/birmingham-ladywood","guardian_id":"718","guardian_name":"Birmingham Ladywood","pa_id":"61","name":"Birmingham, Ladywood"}

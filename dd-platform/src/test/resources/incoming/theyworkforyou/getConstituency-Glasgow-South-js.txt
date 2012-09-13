@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"705","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/960/glasgow-south","guardian_id":"960","guardian_name":"Glasgow South","pa_id":"267","name":"Glasgow South"}

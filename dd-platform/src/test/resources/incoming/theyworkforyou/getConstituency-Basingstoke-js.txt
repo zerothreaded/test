@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"31","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/692/basingstoke","guardian_id":"692","guardian_name":"Basingstoke","pa_id":"34","name":"Basingstoke"}

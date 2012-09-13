@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"421","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1152/newcastle-upon-tyne-central","guardian_id":"1152","guardian_name":"Newcastle upon Tyne Central","pa_id":"414","name":"Newcastle upon Tyne Central"}

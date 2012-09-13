@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"237","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/925/enfield-north","guardian_id":"925","guardian_name":"Enfield North","pa_id":"237","name":"Enfield North"}

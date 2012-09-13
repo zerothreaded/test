@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"672","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1417/aberdeenshire-west-and-kincardine","guardian_id":"1417","guardian_name":"Aberdeenshire West and Kincardine","pa_id":"5","name":"West Aberdeenshire and Kincardine"}

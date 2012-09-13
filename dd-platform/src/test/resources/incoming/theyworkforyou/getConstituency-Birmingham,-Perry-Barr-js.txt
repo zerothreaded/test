@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"59","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/720/birmingham-perry-barr","guardian_id":"720","guardian_name":"Birmingham Perry Barr","pa_id":"63","name":"Birmingham, Perry Barr"}

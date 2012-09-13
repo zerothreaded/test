@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"75","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/739/bolton-west","guardian_id":"739","guardian_name":"Bolton West","pa_id":"78","name":"Bolton West"}

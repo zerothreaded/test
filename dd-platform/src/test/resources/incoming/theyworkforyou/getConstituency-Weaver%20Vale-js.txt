@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"618","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1412/weaver-vale","guardian_id":"1412","guardian_name":"Weaver Vale","pa_id":"607","name":"Weaver Vale"}

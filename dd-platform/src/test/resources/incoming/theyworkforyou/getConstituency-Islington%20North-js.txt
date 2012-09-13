@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"340","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1046/islington-north","guardian_id":"1046","guardian_name":"Islington North","pa_id":"334","name":"Islington North"}

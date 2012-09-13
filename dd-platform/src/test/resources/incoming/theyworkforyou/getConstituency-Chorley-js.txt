@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"145","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/820/chorley","guardian_id":"820","guardian_name":"Chorley","pa_id":"149","name":"Chorley"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"504","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1272/scarborough-and-whitby","guardian_id":"1272","guardian_name":"Scarborough and Whitby","pa_id":"497","name":"Scarborough and Whitby"}

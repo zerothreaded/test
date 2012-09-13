@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"19","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/679/ashford","guardian_id":"679","guardian_name":"Ashford","pa_id":"20","name":"Ashford"}

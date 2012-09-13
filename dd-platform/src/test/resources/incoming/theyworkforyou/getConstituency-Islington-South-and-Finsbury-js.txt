@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"341","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1047/islington-south-and-finsbury","guardian_id":"1047","guardian_name":"Islington South and Finsbury","pa_id":"335","name":"Islington South and Finsbury"}

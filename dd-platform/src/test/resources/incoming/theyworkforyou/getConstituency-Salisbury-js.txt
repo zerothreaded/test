@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"503","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1270/salisbury","guardian_id":"1270","guardian_name":"Salisbury","pa_id":"496","name":"Salisbury"}

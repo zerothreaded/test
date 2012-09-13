@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"551","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1347/stretford-and-urmston","guardian_id":"1347","guardian_name":"Stretford and Urmston","pa_id":"545","name":"Stretford and Urmston"}

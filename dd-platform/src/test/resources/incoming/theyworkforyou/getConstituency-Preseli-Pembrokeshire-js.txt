@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"465","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1231/preseli-pembrokeshire","guardian_id":"1231","guardian_name":"Preseli Pembrokeshire","pa_id":"459","name":"Preseli Pembrokeshire"}

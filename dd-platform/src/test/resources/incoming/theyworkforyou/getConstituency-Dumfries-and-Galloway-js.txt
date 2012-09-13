@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"684","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/952/dumfries-and-galloway","guardian_id":"952","guardian_name":"Dumfries and Galloway","pa_id":"207","name":"Dumfries and Galloway"}

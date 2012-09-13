@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"213","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/891/durham-north-west","guardian_id":"891","guardian_name":"Durham North West","pa_id":"216","name":"North West Durham"}

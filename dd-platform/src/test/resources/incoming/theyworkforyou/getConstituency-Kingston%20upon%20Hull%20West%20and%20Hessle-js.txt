@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"332","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1037/hull-west-and-hessle","guardian_id":"1037","guardian_name":"Hull West and Hessle","pa_id":"325","name":"Kingston upon Hull West and Hessle"}

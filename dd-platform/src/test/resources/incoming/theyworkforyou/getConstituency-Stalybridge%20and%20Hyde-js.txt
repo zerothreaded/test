@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"536","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1330/stalybridge-and-hyde","guardian_id":"1330","guardian_name":"Stalybridge and Hyde","pa_id":"531","name":"Stalybridge and Hyde"}

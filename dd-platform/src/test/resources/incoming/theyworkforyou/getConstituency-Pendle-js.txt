@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"453","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1217/pendle","guardian_id":"1217","guardian_name":"Pendle","pa_id":"447","name":"Pendle"}

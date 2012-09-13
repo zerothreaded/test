@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"726","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1256/ross-skye-and-lochaber","guardian_id":"1256","guardian_name":"Ross, Skye and Lochaber","pa_id":"479","name":"Ross, Skye and Lochaber"}

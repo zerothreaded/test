@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"47","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/705/bethnal-green-and-bow","guardian_id":"705","guardian_name":"Bethnal Green and Bow","pa_id":"52","name":"Bethnal Green and Bow"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"315","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1018/hertford-and-stortford","guardian_id":"1018","guardian_name":"Hertford and Stortford","pa_id":"308","name":"Hertford and Stortford"}

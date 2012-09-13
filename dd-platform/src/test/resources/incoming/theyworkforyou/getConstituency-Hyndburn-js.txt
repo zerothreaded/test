@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"334","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1039/hyndburn","guardian_id":"1039","guardian_name":"Hyndburn","pa_id":"327","name":"Hyndburn"}

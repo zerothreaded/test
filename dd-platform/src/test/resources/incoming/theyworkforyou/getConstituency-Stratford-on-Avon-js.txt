@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"548","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1343/stratford-on-avon","guardian_id":"1343","guardian_name":"Stratford-on-Avon","pa_id":"543","name":"Stratford-on-Avon"}

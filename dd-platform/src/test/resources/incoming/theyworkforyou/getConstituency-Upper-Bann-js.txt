@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"596","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1387/upper-bann","guardian_id":"1387","guardian_name":"Upper Bann","pa_id":"586","name":"Upper Bann"}

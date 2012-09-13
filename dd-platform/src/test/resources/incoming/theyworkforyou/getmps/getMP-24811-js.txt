@@ -1,0 +1,1 @@
+[{"member_id":"40048","house":"1","first_name":"Gloria","last_name":"De Piero","constituency":"Ashfield","party":"Labour","entered_house":"2010-05-06","left_house":"9999-12-31","entered_reason":"general_election","left_reason":"still_in_office","person_id":"24811","title":"","lastupdate":"2010-05-07 04:01:53","full_name":"Gloria De Piero","url":"/mp/gloria_de_piero/ashfield"}]

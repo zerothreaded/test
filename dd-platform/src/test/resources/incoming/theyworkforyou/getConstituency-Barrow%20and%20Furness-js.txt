@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"29","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/690/barrow-and-furness","guardian_id":"690","guardian_name":"Barrow and Furness","pa_id":"31","name":"Barrow and Furness"}

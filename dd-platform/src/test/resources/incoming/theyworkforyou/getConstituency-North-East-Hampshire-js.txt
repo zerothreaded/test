@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"296","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1174/hampshire-north-east","guardian_id":"1174","guardian_name":"Hampshire North East","pa_id":"288","name":"North East Hampshire"}

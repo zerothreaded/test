@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"700","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/970/glasgow-central","guardian_id":"970","guardian_name":"Glasgow Central","pa_id":"262","name":"Glasgow Central"}

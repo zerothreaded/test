@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"651","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1368/the-wrekin","guardian_id":"1368","guardian_name":"The Wrekin","pa_id":"640","name":"The Wrekin"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"129","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/796/carmarthen-west-and-pembrokeshire-south","guardian_id":"796","guardian_name":"Carmarthen West and Pembrokeshire South","pa_id":"132","name":"Carmarthen West and South Pembrokeshire"}

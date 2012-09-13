@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"114","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/783/calder-valley","guardian_id":"783","guardian_name":"Calder Valley","pa_id":"116","name":"Calder Valley"}

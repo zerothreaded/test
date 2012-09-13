@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"567","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1181/swindon-north","guardian_id":"1181","guardian_name":"Swindon North","pa_id":"560","name":"North Swindon"}

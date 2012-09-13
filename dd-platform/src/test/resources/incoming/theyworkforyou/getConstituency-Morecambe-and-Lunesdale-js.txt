@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"412","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1141/morecambe-and-lunesdale","guardian_id":"1141","guardian_name":"Morecambe and Lunesdale","pa_id":"404","name":"Morecambe and Lunesdale"}

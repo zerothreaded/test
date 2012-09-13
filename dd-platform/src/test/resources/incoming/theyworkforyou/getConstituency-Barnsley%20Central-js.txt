@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"26","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/686/barnsley-central","guardian_id":"686","guardian_name":"Barnsley Central","pa_id":"29","name":"Barnsley Central"}

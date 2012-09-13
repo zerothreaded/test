@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"190","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1312/devon-south-west","guardian_id":"1312","guardian_name":"Devon South West","pa_id":"191","name":"South West Devon"}

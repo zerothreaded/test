@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"343","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1049/jarrow","guardian_id":"1049","guardian_name":"Jarrow","pa_id":"337","name":"Jarrow"}

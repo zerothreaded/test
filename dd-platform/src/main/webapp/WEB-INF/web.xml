@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>Direct Democracy</display-name>
+  
+  <!-- 
+   <context-param>
+	<param-name>contextConfigLocation</param-name>
+	<param-value>/WEB-INF/application-beans.xml</param-value>
+  </context-param>
+  
+   <listener>
+        <listener-class>
+		org.springframework.web.context.ContextLoaderListener
+        </listener-class>
+  </listener>
+
+-->
+
+	<welcome-file-list>
+		<welcome-file>
+			index.jsp
+		</welcome-file>
+	</welcome-file-list>
+  
+  <!-- Map URLs to that servlet. -->
+    <servlet>
+        <servlet-name>application</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>application</servlet-name>
+        <url-pattern>/app/*</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>authenticate</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>authenticate</servlet-name>
+        <url-pattern>/auth/*</url-pattern>
+    </servlet-mapping>
+
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>/WEB-INF/application-startup.xml</param-value>
+	</context-param>
+	
+	<listener>
+		<listener-class>
+			org.springframework.web.context.ContextLoaderListener
+		</listener-class>
+	</listener>
+	
+</web-app>

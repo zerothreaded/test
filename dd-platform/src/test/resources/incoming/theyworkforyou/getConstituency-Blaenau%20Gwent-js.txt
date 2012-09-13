@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"68","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/732/blaenau-gwent","guardian_id":"732","guardian_name":"Blaenau Gwent","pa_id":"71","name":"Blaenau Gwent"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"540","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1335/stockton-north","guardian_id":"1335","guardian_name":"Stockton North","pa_id":"535","name":"Stockton North"}

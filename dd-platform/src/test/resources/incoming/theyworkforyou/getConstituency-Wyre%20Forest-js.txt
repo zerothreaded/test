@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"654","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1460/wyre-forest","guardian_id":"1460","guardian_name":"Wyre Forest","pa_id":"644","name":"Wyre Forest"}

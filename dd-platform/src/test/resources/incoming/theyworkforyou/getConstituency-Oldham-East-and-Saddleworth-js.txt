@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"445","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1206/oldham-east-and-saddleworth","guardian_id":"1206","guardian_name":"Oldham East and Saddleworth","pa_id":"439","name":"Oldham East and Saddleworth"}

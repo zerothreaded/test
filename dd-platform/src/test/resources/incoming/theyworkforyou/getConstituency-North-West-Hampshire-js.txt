@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"297","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1187/hampshire-north-west","guardian_id":"1187","guardian_name":"Hampshire North West","pa_id":"289","name":"North West Hampshire"}

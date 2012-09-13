@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"86","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/752/brecon-and-radnorshire","guardian_id":"752","guardian_name":"Brecon and Radnorshire","pa_id":"89","name":"Brecon and Radnorshire"}

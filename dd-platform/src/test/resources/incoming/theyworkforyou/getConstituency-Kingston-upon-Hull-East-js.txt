@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"330","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1034/hull-east","guardian_id":"1034","guardian_name":"Hull East","pa_id":"323","name":"Kingston upon Hull East"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"542","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1337/stoke-on-trent-central","guardian_id":"1337","guardian_name":"Stoke-on-Trent Central","pa_id":"537","name":"Stoke-on-Trent Central"}

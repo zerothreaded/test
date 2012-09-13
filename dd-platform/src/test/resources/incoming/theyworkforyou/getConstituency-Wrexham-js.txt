@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"652","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1457/wrexham","guardian_id":"1457","guardian_name":"Wrexham","pa_id":"641","name":"Wrexham"}

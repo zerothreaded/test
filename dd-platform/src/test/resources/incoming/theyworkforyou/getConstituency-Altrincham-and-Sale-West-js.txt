@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"9","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/671/altrincham-and-sale-west","guardian_id":"671","guardian_name":"Altrincham and Sale West","pa_id":"9","name":"Altrincham and Sale West"}

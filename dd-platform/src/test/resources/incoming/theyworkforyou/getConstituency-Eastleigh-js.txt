@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"223","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/909/eastleigh","guardian_id":"909","guardian_name":"Eastleigh","pa_id":"226","name":"Eastleigh"}

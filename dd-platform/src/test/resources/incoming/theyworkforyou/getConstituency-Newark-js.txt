@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"418","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1150/newark","guardian_id":"1150","guardian_name":"Newark","pa_id":"411","name":"Newark"}

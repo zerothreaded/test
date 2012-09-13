@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"14","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1164/antrim-north","guardian_id":"1164","guardian_name":"Antrim North","pa_id":"14","name":"North Antrim"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"323","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1024/holborn-and-st-pancras","guardian_id":"1024","guardian_name":"Holborn and St Pancras","pa_id":"316","name":"Holborn and St Pancras"}

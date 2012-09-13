@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"423","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1155/newcastle-upon-tyne-north","guardian_id":"1155","guardian_name":"Newcastle upon Tyne North","pa_id":"416","name":"Newcastle upon Tyne North"}

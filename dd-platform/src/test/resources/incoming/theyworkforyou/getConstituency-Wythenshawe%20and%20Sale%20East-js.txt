@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"655","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1461/wythenshawe-and-sale-east","guardian_id":"1461","guardian_name":"Wythenshawe and Sale East","pa_id":"645","name":"Wythenshawe and Sale East"}

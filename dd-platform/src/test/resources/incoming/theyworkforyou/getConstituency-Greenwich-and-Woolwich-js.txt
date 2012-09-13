@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"284","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/984/greenwich-and-woolwich","guardian_id":"984","guardian_name":"Greenwich and Woolwich","pa_id":"278","name":"Greenwich and Woolwich"}

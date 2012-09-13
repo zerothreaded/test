@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"693","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/915/edinburgh-east","guardian_id":"915","guardian_name":"Edinburgh East","pa_id":"228","name":"Edinburgh East"}

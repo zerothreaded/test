@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"144","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/818/chipping-barnet","guardian_id":"818","guardian_name":"Chipping Barnet","pa_id":"148","name":"Chipping Barnet"}

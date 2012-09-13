@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"497","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1267/saffron-walden","guardian_id":"1267","guardian_name":"Saffron Walden","pa_id":"489","name":"Saffron Walden"}

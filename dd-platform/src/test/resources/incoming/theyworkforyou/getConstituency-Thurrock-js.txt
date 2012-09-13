@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"578","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1369/thurrock","guardian_id":"1369","guardian_name":"Thurrock","pa_id":"571","name":"Thurrock"}

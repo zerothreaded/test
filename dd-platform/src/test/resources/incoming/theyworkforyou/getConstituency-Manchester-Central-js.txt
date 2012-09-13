@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"394","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1111/manchester-central","guardian_id":"1111","guardian_name":"Manchester Central","pa_id":"387","name":"Manchester Central"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"69","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/733/blaydon","guardian_id":"733","guardian_name":"Blaydon","pa_id":"72","name":"Blaydon"}

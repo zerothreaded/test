@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"534","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1329/staffordshire-moorlands","guardian_id":"1329","guardian_name":"Staffordshire Moorlands","pa_id":"529","name":"Staffordshire Moorlands"}

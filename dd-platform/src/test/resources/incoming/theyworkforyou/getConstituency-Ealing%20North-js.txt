@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"216","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/894/ealing-north","guardian_id":"894","guardian_name":"Ealing North","pa_id":"219","name":"Ealing North"}

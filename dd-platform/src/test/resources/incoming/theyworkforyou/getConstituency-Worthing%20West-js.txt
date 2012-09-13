@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"650","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1456/worthing-west","guardian_id":"1456","guardian_name":"Worthing West","pa_id":"639","name":"Worthing West"}

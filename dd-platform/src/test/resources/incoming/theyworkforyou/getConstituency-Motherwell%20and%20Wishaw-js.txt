@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"718","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1145/motherwell-and-wishaw","guardian_id":"1145","guardian_name":"Motherwell and Wishaw","pa_id":"406","name":"Motherwell and Wishaw"}

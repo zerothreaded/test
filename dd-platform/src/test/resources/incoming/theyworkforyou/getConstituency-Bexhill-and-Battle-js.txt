@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"49","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/709/bexhill-and-battle","guardian_id":"709","guardian_name":"Bexhill and Battle","pa_id":"54","name":"Bexhill and Battle"}

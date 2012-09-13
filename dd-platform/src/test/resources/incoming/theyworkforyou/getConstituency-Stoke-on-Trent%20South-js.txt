@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"544","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1339/stoke-on-trent-south","guardian_id":"1339","guardian_name":"Stoke-on-Trent South","pa_id":"539","name":"Stoke-on-Trent South"}

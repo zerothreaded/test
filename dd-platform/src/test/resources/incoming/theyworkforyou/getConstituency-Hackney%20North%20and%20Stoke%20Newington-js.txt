@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"286","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/986/hackney-north-and-stoke-newington","guardian_id":"986","guardian_name":"Hackney North and Stoke Newington","pa_id":"280","name":"Hackney North and Stoke Newington"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"702","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/966/glasgow-north","guardian_id":"966","guardian_name":"Glasgow North","pa_id":"264","name":"Glasgow North"}

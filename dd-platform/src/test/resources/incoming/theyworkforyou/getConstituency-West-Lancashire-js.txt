@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"354","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1426/lancashire-west","guardian_id":"1426","guardian_name":"Lancashire West","pa_id":"349","name":"West Lancashire"}

@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"143","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/817/chingford-and-woodford-green","guardian_id":"817","guardian_name":"Chingford and Woodford Green","pa_id":"146","name":"Chingford and Woodford Green"}

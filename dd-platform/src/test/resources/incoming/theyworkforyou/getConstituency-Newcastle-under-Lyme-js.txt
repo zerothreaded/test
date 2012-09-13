@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"420","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1156/newcastle-under-lyme","guardian_id":"1156","guardian_name":"Newcastle-under-Lyme","pa_id":"413","name":"Newcastle-under-Lyme"}

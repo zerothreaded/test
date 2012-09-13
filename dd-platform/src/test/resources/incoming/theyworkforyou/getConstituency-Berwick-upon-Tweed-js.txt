@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"46","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/704/berwick-upon-tweed","guardian_id":"704","guardian_name":"Berwick-upon-Tweed","pa_id":"50","name":"Berwick-upon-Tweed"}

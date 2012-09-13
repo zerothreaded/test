@@ -1,0 +1,1 @@
+{"bbc_constituency_id":"711","guardian_election_results":"http://www.guardian.co.uk/politics/constituency/1054/kilmarnock-and-loudoun","guardian_id":"1054","guardian_name":"Kilmarnock and Loudoun","pa_id":"342","name":"Kilmarnock and Loudoun"}
